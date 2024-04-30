@@ -1,0 +1,121 @@
+   @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+ $o: #F46A06;
+ body
+ {
+    font-family: 'Roboto', sans-serif;
+ }
+ h1,h2,h3,h4,h5,h6
+ {
+    font-family: 'Quicksand', sans-serif;
+ }
+ .navbar-brand
+ {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    span
+    {
+        color: $o;
+    }
+ }
+ .navbar-expand-lg .navbar-nav .nav-link
+ {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: $o;
+    padding: 10px 15px;
+ }
+ .btn-warning
+ {
+    background: $o;
+    color: white;
+    padding: 10px 25px;
+ }
+ .btn-warning1
+ {
+    background: white;
+    color: black;
+    border: 1px solid rgb(168, 163, 163);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 10px 25px;
+ }
+.banner
+{
+    h2
+    {
+        font-weight: 700;
+        font-size: 48px;
+    }
+}
+.counter
+{
+    background: $o;
+}
+.card-img-overlay
+{
+    top: 70px;
+    text-align: center;
+    h2
+    {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        color: $o;
+    }
+    p
+    {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+    }
+}
+.options 
+{
+    text-align: center;
+}
+.clients
+{
+    background: $o;
+
+}
+.question
+{
+    h5
+    {
+        font-weight: bolder;
+    }
+}
+.ban
+{
+    background: black;
+    height: 188px;
+    left: 0px;
+    padding: 100px;
+    align-items: center;
+    p
+    {
+        font-family: 'Quicksand';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        color: white;
+    }
+}
+.input-group 
+{
+    width: 400px;
+    left: 460px;
+}
+.footer
+{
+    background: $o;
+    color: white;
+}

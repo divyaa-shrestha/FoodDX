@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Quicksand", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+}
+.navbar-brand span {
+  color: #F46A06;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  color: #F46A06;
+  padding: 10px 15px;
+}
+
+.btn-warning {
+  background: #F46A06;
+  color: white;
+  padding: 10px 25px;
+}
+
+.btn-warning1 {
+  background: white;
+  color: black;
+  border: 1px solid rgb(168, 163, 163);
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 10px 25px;
+}
+
+.banner h2 {
+  font-weight: 700;
+  font-size: 48px;
+}
+
+.counter {
+  background: #F46A06;
+}
+
+.card-img-overlay {
+  top: 70px;
+  text-align: center;
+}
+.card-img-overlay h2 {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  color: #F46A06;
+}
+.card-img-overlay p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.options {
+  text-align: center;
+}
+
+.clients {
+  background: #F46A06;
+}
+
+.question h5 {
+  font-weight: bolder;
+}
+
+.ban {
+  background: black;
+  height: 188px;
+  left: 0px;
+  padding: 100px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.ban p {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  color: white;
+}
+
+.input-group {
+  width: 400px;
+  left: 460px;
+}
+
+.footer {
+  background: #F46A06;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
